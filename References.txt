@@ -1,0 +1,13 @@
+1. Air quality index prediction using seasonal autoregressiveintegrated moving average transductive long short-termmemory 
+https://onlinelibrary.wiley.com/doi/epdf/10.4218/etrij.2023-0283
+
+
+
+2. Explainable forecasting of air quality index using a hybrid random forest and ARIMA model
+
+https://www.sciencedirect.com/science/article/pii/S2215016125003619
+
+
+3. Predicting Air Quality Index Values Using ARIMA Model
+
+https://www.researchgate.net/publication/383415379_Predicting_Air_Quality_Index_Values_Using_ARIMA_Model
